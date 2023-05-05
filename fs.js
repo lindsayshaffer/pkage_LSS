@@ -185,7 +185,7 @@ window.fs.addChild(new Folder({
             img: 'img/desktop/InternetExplorer.png',
             title: 'GitHub',
             shortcut: true,
-            launch: 'web:https://github.com/pkage'
+            launch: 'web:https://github.com/lindsayshaffer'
         },
         {
             img: 'img/desktop/InternetExplorer.png',
@@ -195,9 +195,9 @@ window.fs.addChild(new Folder({
         },
         {
             img: 'img/desktop/InternetExplorer.png',
-            title: 'Keybase',
+            title: 'Twitter',
             shortcut: true,
-            launch: 'web:https://keybase.io/pkage'
+            launch: 'web:https://twitter.com/LindsaySShaffer'
         },
         {
             img: 'img/desktop/InternetExplorer.png',
