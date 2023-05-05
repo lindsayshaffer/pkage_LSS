@@ -82,7 +82,8 @@ class ResumeProgram extends Program {
 
 class CVProgram extends ResumeProgram {
     getDocumentURL() {
-        return '//kage.dev/cv.pdf'
+      //  return '//kage.dev/cv.pdf'
+        return 'https://d101vc9winf8ln.cloudfront.net/cvs/3979/original/230405_CV_Shaffer.pdf'
     }
 
     getDocumentTitle() {
