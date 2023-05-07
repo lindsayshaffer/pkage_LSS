@@ -18,7 +18,7 @@ class ShutdownProgram extends Program {
                     </p>
                 </div>
                 <div class="window__dialog-action">
-                    <button autofocus>lol idk</button>
+                    <button autofocus>I don't know.</button>
                 </div>
             </div>
         `
